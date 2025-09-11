@@ -5,7 +5,7 @@ This SQL-based project explores patterns in patient admissions and 30-day readmi
 ## Contents
 - `data/`: cleaned admission and readmission dataset
 - `sql/`: query scripts used for analysis
-- `dashboards/`: Power BI and PDF dashboard
+- `dashboards/`: Power BI dashboard
 
 **Tools Used:** SQL, Power BI
 **Skills Demonstrated:** SQL queries, data aggregation, calculated fields

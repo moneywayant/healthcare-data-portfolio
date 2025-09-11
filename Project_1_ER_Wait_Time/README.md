@@ -4,7 +4,7 @@ This project analyzes emergency room wait times to identify bottlenecks and reco
 
 ## Contents
 - `data/`: cleaned wait time dataset
-- `dashboards/`: Power BI and PDF dashboard
+- `dashboards/`: Power BI dashboard
 
 **Tools Used:** Excel, Power BI
 **Skills Demonstrated:** Data cleaning, pivot tables, interactive dashboard design

@@ -5,7 +5,7 @@ This project connects physical activity levels to diabetes indicators using BRFS
 ## Contents
 - `data/`: cleaned BRFSS dataset
 - `sql/`: query scripts exploring diabetes indicators
-- `dashboards/`: Power BI and PDF dashboard
+- `dashboards/`: Power BI dashboard
 
 **Tools Used:** BigQuery SQL, Power BI
 **Skills Demonstrated:** CTEs, CASE logic, demographic analysis

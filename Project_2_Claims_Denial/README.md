@@ -4,7 +4,7 @@ This dashboard highlights trends in medical claims denials across payers, proced
 
 ## Contents
 - `data/`: cleaned claims dataset
-- `dashboards/`: Power BI and PDF dashboard
+- `dashboards/`: Power BI dashboard
 
 **Tools Used:** Excel, SQL, Power BI
 **Skills Demonstrated:** Data transformation, KPI reporting, SQL joins

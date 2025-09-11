@@ -5,7 +5,7 @@ This end-to-end project used R, Power BI, SQL, and Excel to explore patient risk
 ## Contents
 - `data/`: cleaned heart disease dataset
 - `notebooks/`: R analysis notebook
-- `dashboards/`: Power BI and PDF dashboard
+- `dashboards/`: Power BI dashboard
 
 **Tools Used:** R (ggplot2), Power BI, Excel
 **Skills Demonstrated:** Data wrangling, statistical visualization, multi-tool integration
