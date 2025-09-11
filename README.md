@@ -8,6 +8,8 @@ Hi, I'm Anthony — an aspiring **healthcare data analyst** with a focus on remo
 
 This GitHub repository contains 5 healthcare-focused data analytics projects using tools like **Excel, SQL, Power BI, and R**. Each project explores real-world healthcare challenges and demonstrates my ability to clean, analyze, and visualize data to support decision-making.
 
+Each project folder is organized into `data/`, `dashboards/`, `sql/`, and `notebooks/` directories (where applicable) to make the contents easy to navigate.
+
 ---
 
 ## 🧪 Projects Overview

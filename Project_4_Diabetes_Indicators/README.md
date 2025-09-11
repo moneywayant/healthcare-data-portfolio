@@ -2,7 +2,12 @@
 
 This project connects physical activity levels to diabetes indicators using BRFSS survey data. Inspired by my own academic research, the goal was to highlight preventable health risks.
 
-**Tools Used:** BigQuery SQL, Power BI  
+## Contents
+- `data/`: cleaned BRFSS dataset
+- `sql/`: query scripts exploring diabetes indicators
+- `dashboards/`: Power BI and PDF dashboard
+
+**Tools Used:** BigQuery SQL, Power BI
 **Skills Demonstrated:** CTEs, CASE logic, demographic analysis
 
 **Key Features:**
