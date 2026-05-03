@@ -1,14 +1,17 @@
 # 📊 Healthcare Data Analytics Portfolio
 
-Hi, I'm Anthony — an aspiring **healthcare data analyst** with a focus on remote opportunities. I bring experience in emergency room operations, claims workflows, and population health analytics. I'm currently completing my Master's in Health Informatics & Analytics and have built this portfolio to showcase my technical and domain expertise.
+Hi, I'm Anthony — an aspiring **healthcare data analyst** focused on turning clinical and operational data into decisions that improve care and reduce waste.
 
 ---
 
-## 🧠 About This Portfolio
+## 🧭 Portfolio at a Glance
 
-This GitHub repository contains 5 healthcare-focused data analytics projects using tools like **Excel, SQL, Power BI, and R**. Each project explores real-world healthcare challenges and demonstrates my ability to clean, analyze, and visualize data to support decision-making.
+This repository includes 5 healthcare analytics projects built with **Excel, SQL, Power BI, and R**. Each project is structured to show:
+- the business problem,
+- the analysis approach,
+- and the actionable insight.
 
-Each project folder is organized into `data/`, `dashboards/`, `sql/`, and `notebooks/` directories (where applicable) to make the contents easy to navigate.
+> **Recruiter quick path:** start with Project 1 and Project 2 for operations + revenue cycle examples, then Project 3–5 for SQL and population health depth.
 
 ---
 
@@ -16,31 +19,42 @@ Each project folder is organized into `data/`, `dashboards/`, `sql/`, and `noteb
 
 ### 🔹 [Project 1: ER Wait Time Optimization](./Project_1_ER_Wait_Time)
 **Tools:** Excel, Power BI  
-Analyzed wait times by urgency level, day, and time of day. Suggested staffing adjustments based on operational patterns.
-
----
+**Focus:** Throughput optimization and staffing insight by urgency, time block, and weekday.
 
 ### 🔹 [Project 2: Medical Claims Denial Analysis](./Project_2_Claims_Denial)
-**Tools:** Excel, Power BI  
-Explored common denial reasons, procedure codes, and insurance types to identify patterns in rejected claims and their financial impact.
-
----
+**Tools:** Excel, SQL, Power BI  
+**Focus:** Denial patterns by payer/procedure and likely front-end quality drivers.
 
 ### 🔹 [Project 3: Patient Admissions & Readmissions](./Project_3_Admissions_Readmissions)
-**Tools:** Excel, BigQuery SQL, Power BI  
-Investigated trends in readmission rates and admission volume by diagnosis and month, with actionable insights for reducing repeat visits.
-
----
+**Tools:** SQL, Power BI  
+**Focus:** Readmission and admission trends to support care coordination and planning.
 
 ### 🔹 [Project 4: Diabetes Indicators & Physical Activity](./Project_4_Diabetes_Indicators)
-**Tools:** Excel, BigQuery SQL, Power BI  
-Connected behavioral risk factors to diabetes prevalence using BRFSS data. Designed visuals to guide preventive care strategy.
-
----
+**Tools:** BigQuery SQL, Power BI  
+**Focus:** Behavioral and demographic drivers associated with diabetes risk.
 
 ### 🔹 [Project 5: Heart Disease Risk Analysis](./Project_5_Heart_Disease_Risk)
 **Tools:** R, Excel, Power BI  
-An end-to-end analysis using R visualizations and dashboards to explore clinical heart disease patterns by age, gender, and lifestyle.
+**Focus:** End-to-end risk factor analysis and visualization workflow.
+
+---
+
+## ✅ What Makes This Portfolio Strong
+
+- Healthcare-specific projects with practical hospital and payer relevance.
+- Clear tool stack across BI, SQL, spreadsheets, and statistical analysis.
+- Domain-informed perspective from direct front-line healthcare operations experience.
+
+---
+
+## 🚀 Next Improvements (Planned)
+
+To make this portfolio even stronger for hiring managers:
+
+1. **Add dashboard screenshots/GIF previews** in each project README.
+2. **Document reproducibility** (`how to run`, assumptions, and data dictionary snippets).
+3. **Quantify impact language** (e.g., “could reduce denials by X% if implemented”).
+4. **Add one capstone-style case study** with deeper narrative and recommendation memo.
 
 ---
 
@@ -48,8 +62,8 @@ An end-to-end analysis using R visualizations and dashboards to explore clinical
 
 - 🎓 Master's in Health Informatics & Analytics (In Progress)
 - 💡 ER Registrar at Nicklaus Children’s Hospital
-- 🏠 Seeking full-time **remote data analyst roles** in healthcare
-- 💼 Strong in Excel, SQL, Power BI, R, and EHR workflows
+- 🏠 Seeking full-time **remote healthcare data analyst roles**
+- 🛠️ Core stack: Excel, SQL, Power BI, R
 
 ---
 
@@ -58,6 +72,4 @@ An end-to-end analysis using R visualizations and dashboards to explore clinical
 - **Email:** ant.cid57@yahoo.com  
 - **LinkedIn:** [linkedin.com/in/anthony-cid-250115358](https://www.linkedin.com/in/anthony-cid-250115358)
 
----
-
-Thanks for visiting! Feel free to explore each folder to view dashboards, queries, and project summaries.
+Thanks for visiting — feedback is always welcome.
