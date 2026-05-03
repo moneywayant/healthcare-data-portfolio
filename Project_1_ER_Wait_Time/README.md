@@ -2,7 +2,11 @@
 
 This project analyzes emergency room wait times to identify bottlenecks and recommend staffing adjustments. Using Power BI and Excel, I created a dashboard that visualizes wait times by urgency level, time of day, and day of the week.
 
-**Tools Used:** Excel, Power BI  
+## Contents
+- `data/`: cleaned wait time dataset
+- `dashboards/`: Power BI dashboard
+
+**Tools Used:** Excel, Power BI
 **Skills Demonstrated:** Data cleaning, pivot tables, interactive dashboard design
 
 **Key Features:**

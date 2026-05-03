@@ -2,7 +2,12 @@
 
 This SQL-based project explores patterns in patient admissions and 30-day readmissions. The goal was to identify high-risk areas that can benefit from better care coordination.
 
-**Tools Used:** SQL, Power BI  
+## Contents
+- `data/`: cleaned admission and readmission dataset
+- `sql/`: query scripts used for analysis
+- `dashboards/`: Power BI dashboard
+
+**Tools Used:** SQL, Power BI
 **Skills Demonstrated:** SQL queries, data aggregation, calculated fields
 
 **Key Features:**
